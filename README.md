@@ -6,6 +6,9 @@ Feature engineering and data cleaning exercise using Google OpenRefine
 ## YouTube URL
 https://youtu.be/ZjxVs9rj1VQ
 
+## Google Colab Link
+https://colab.research.google.com/drive/1Fx_plLYZ54zmjMiR13VC5Ak-Y8ll7zTm?usp=sharing
+
 ## Data Cleaning and Feature Engineering 
 
 1. Data Preparation & Loading
